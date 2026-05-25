@@ -1,5 +1,6 @@
 # Correlation and regression for data analysis
-# Name : Abheek.A
+# Name : AADHITHYAA L
+# REG NO:212224220003
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
